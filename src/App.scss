@@ -1,0 +1,23 @@
+@import "src/components/style/header";
+@import "src/components/style/home";
+@import "src/components/style/about";
+@import "src/components/style/Media";
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: 'Spartan', sans-serif;
+  background: #151521;
+}
